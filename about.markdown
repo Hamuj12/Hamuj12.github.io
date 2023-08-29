@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Hi there!
 
-![Hamza Mujtaba](/hamza.jpg){: width="250" }
+![Hamza Mujtaba](/Hamza.png){: width="250" }
 
 My name is Hamza Mujtaba, and I'm an undergraduate student pursuing a degree in Electrical and Computer Engineering at The University of Texas at Austin. I'm passionate about developing software and hardware systems that have a positive impact on people's lives, and I'm constantly looking for opportunities to learn and grow as an engineer.
 
